@@ -83,12 +83,12 @@ const WorkplaceSection = () => {
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary mb-2">200+</div>
+                  <div className="text-2xl font-bold text-primary mb-2">350+</div>
                   <div className="text-muted-foreground">Active Members</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary mb-2">15</div>
-                  <div className="text-muted-foreground">Department Divisions</div>
+                  <div className="text-2xl font-bold text-primary mb-2">3</div>
+                  <div className="text-muted-foreground">Roleplay Nations</div>
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-primary mb-2">24/7</div>

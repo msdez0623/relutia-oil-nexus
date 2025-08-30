@@ -49,9 +49,9 @@ const HeroSection = () => {
             </Button>
           </div>
 
-          {/* ################################ */}
-          {/* # EDIT HERO STATISTICS HERE   # */}
-          {/* ################################ */}
+          {'#1 Trusted Company in Relutia'}
+          {'#1 News Company in Relutia'}
+          {'#3 Wealthiest Company in Relutia'}
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-3xl mx-auto">
             <div className="text-center">
               <div className="flex items-center justify-center mb-2">

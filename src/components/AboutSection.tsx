@@ -35,9 +35,9 @@ const AboutSection = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
             About <span className="text-primary">Relutia Oil Company</span>
           </h2>
-          {/* ##################################### */}
-          {/* # EDIT COMPANY DESCRIPTION HERE    # */}
-          {/* ##################################### */}
+          {'Relutian Government Certified Oil Company'}
+          {'Best Oil Barrel Value and Price on Market'}
+          {'Satisfied Customer each day in Demetheria'}
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Since our founding in the industrial city of Relutia, we have transformed from 
             a fledgling energy producer into Demetheria's most influential corporate entity, 
@@ -80,7 +80,7 @@ const AboutSection = () => {
                   <div className="text-muted-foreground">Barrels Daily</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-primary mb-2">15K+</div>
+                  <div className="text-3xl font-bold text-primary mb-2">N/A</div>
                   <div className="text-muted-foreground">Employees</div>
                 </div>
                 <div>

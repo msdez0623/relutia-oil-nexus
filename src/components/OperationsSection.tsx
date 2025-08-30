@@ -9,27 +9,27 @@ const OperationsSection = () => {
   const operations = [
     {
       icon: <Factory className="w-12 h-12 text-primary" />,
-      title: "Refining Operations",
-      description: "State-of-the-art refining facilities processing crude oil into premium petroleum products.",
-      details: "12 major refineries across Demetheria with advanced catalytic cracking technology."
+      title: "Happy Birthday ROC",
+      description: "First Oil Refinary Company Created in Relutia",
+      details: "Relutia Oil Company has officially been established in Relutia!"
     },
     {
       icon: <Truck className="w-12 h-12 text-primary" />,
-      title: "Distribution Network",
-      description: "Comprehensive logistics network ensuring reliable energy supply nationwide.",
-      details: "2,500+ service stations and strategic partnerships with major distributors."
+      title: "Elections for JACK",
+      description: "Jackdiddyfilms may win the elections!",
+      details: "Jackdiddyfilms might win the presidential elections as he is in the coalition!"
     },
     {
       icon: <Zap className="w-12 h-12 text-primary" />,
-      title: "Energy Innovation",
-      description: "Research and development in renewable energy and clean petroleum technologies.",
-      details: "€2.1B invested in sustainable energy initiatives and emission reduction."
+      title: "n/a",
+      description: "n/a",
+      details: "n/a"
     },
     {
       icon: <Shield className="w-12 h-12 text-primary" />,
-      title: "Safety & Environment",
-      description: "Industry-leading safety protocols and environmental protection measures.",
-      details: "Zero major incidents for 8 consecutive years with 99.7% safety compliance rate."
+      title: "n/a",
+      description: "n/a",
+      details: "n/a"
     }
     // #############################################
     // # ADD MORE OPERATIONS IN THE SAME FORMAT: #
