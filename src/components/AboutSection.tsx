@@ -2,6 +2,9 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Building2, Users, Award, TrendingUp } from "lucide-react";
 
 const AboutSection = () => {
+  // ################################
+  // # EDIT COMPANY FEATURES HERE   #
+  // ################################
   const features = [
     {
       icon: <Building2 className="w-8 h-8 text-primary" />,
@@ -32,6 +35,9 @@ const AboutSection = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
             About <span className="text-primary">Relutia Oil Company</span>
           </h2>
+          {/* ##################################### */}
+          {/* # EDIT COMPANY DESCRIPTION HERE    # */}
+          {/* ##################################### */}
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Since our founding in the industrial city of Relutia, we have transformed from 
             a fledgling energy producer into Demetheria's most influential corporate entity, 
@@ -56,12 +62,18 @@ const AboutSection = () => {
         <div className="max-w-4xl mx-auto">
           <Card className="bg-gradient-to-r from-petroleum-blue/20 to-steel-blue/20 border-primary/20">
             <CardContent className="p-8">
+              {/* ######################### */}
+              {/* # EDIT MISSION HERE    # */}
+              {/* ######################### */}
               <h3 className="text-2xl font-bold mb-4 text-foreground">Our Mission</h3>
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 To power Demetheria's future through innovative energy solutions, sustainable practices, 
                 and unwavering commitment to excellence. We strive to maintain our position as the nation's 
                 energy backbone while fostering economic growth and technological advancement.
               </p>
+              {/* ################################## */}
+              {/* # EDIT COMPANY STATISTICS HERE  # */}
+              {/* ################################## */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
                 <div>
                   <div className="text-3xl font-bold text-primary mb-2">1.2M</div>

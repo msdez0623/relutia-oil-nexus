@@ -3,6 +3,9 @@ import { Button } from "@/components/ui/button";
 import { Factory, Truck, Zap, Shield, ArrowRight } from "lucide-react";
 
 const OperationsSection = () => {
+  // #########################################
+  // # EDIT OPERATIONS & SERVICES HERE     #
+  // #########################################
   const operations = [
     {
       icon: <Factory className="w-12 h-12 text-primary" />,
@@ -28,6 +31,15 @@ const OperationsSection = () => {
       description: "Industry-leading safety protocols and environmental protection measures.",
       details: "Zero major incidents for 8 consecutive years with 99.7% safety compliance rate."
     }
+    // #############################################
+    // # ADD MORE OPERATIONS IN THE SAME FORMAT: #
+    // # {                                       #
+    // #   icon: <IconName className="w-12 h-12 text-primary" />, #
+    // #   title: "Operation Title",             #
+    // #   description: "Description...",        #
+    // #   details: "Additional details..."      #
+    // # }                                       #
+    // #############################################
   ];
 
   return (

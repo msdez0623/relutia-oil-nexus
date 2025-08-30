@@ -3,6 +3,9 @@ import { Button } from "@/components/ui/button";
 import { Users, MessageSquare, FileText, Globe, Shield, Briefcase } from "lucide-react";
 
 const WorkplaceSection = () => {
+  // #############################################
+  // # EDIT WORKPLACE/ROLEPLAY FEATURES HERE   #
+  // #############################################
   const workplaceFeatures = [
     {
       icon: <Users className="w-8 h-8 text-primary" />,

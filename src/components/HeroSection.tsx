@@ -18,6 +18,9 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 text-center">
         <div className="max-w-4xl mx-auto">
+          {/* ################################### */}
+          {/* # EDIT MAIN HEADLINE & TAGLINE   # */}
+          {/* ################################### */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-energy-amber bg-clip-text text-transparent">
             Powering Demetheria's Future
           </h1>
@@ -46,7 +49,9 @@ const HeroSection = () => {
             </Button>
           </div>
 
-          {/* Stats */}
+          {/* ################################ */}
+          {/* # EDIT HERO STATISTICS HERE   # */}
+          {/* ################################ */}
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-3xl mx-auto">
             <div className="text-center">
               <div className="flex items-center justify-center mb-2">
