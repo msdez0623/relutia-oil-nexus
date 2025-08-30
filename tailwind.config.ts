@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Corporate Energy Theme
+				'oil-gold': 'hsl(var(--oil-gold))',
+				'petroleum-blue': 'hsl(var(--petroleum-blue))',
+				'industrial-gray': 'hsl(var(--industrial-gray))',
+				'steel-blue': 'hsl(var(--steel-blue))',
+				'energy-amber': 'hsl(var(--energy-amber))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
